@@ -1,6 +1,6 @@
 # ESPN CRICKET DATA ANALYSIS
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link :
 
 ## Problem Statement
 This dashboard helps sports analysts, cricket fans, and team management understand player and team performance using ESPN cricket match data. It provides insights into batting, bowling, and match outcomes so users can evaluate strengths, weaknesses, and consistency of players across different formats and matches.
