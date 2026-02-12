@@ -1,7 +1,7 @@
 # ESPN CRICKET DATA ANALYSIS
 
 ### Dashboard Link :
-## Data Source: Web Scraping
+### Data Source: Web Scraping
 ## Problem Statement
 This dashboard helps sports analysts, cricket fans, and team management understand player and team performance using ESPN cricket match data. It provides insights into batting, bowling, and match outcomes so users can evaluate strengths, weaknesses, and consistency of players across different formats and matches.
 
