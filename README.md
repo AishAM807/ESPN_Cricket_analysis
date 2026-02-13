@@ -50,8 +50,9 @@ Additionally, match statistics such as average runs scored, wickets taken, and p
 # Report Snapshot (Power BI DESKTOP)
 <img width="885" height="497" alt="Image" src="https://github.com/user-attachments/assets/3a6a7334-d99e-4615-8eae-67d7b5bbe924" />
 
-#Insights:
-#1. Strike Rate Based Player Segmentation:
+# Insights:
+
+## 1. Strike Rate-Based Player Segmentation:
 
 	Players were segmented into performance categories using strike rate thresholds to understand batting intent and match impact:
 
@@ -64,16 +65,16 @@ Additionally, match statistics such as average runs scored, wickets taken, and p
 	Explosive (SR 150+): High-impact finishers who significantly accelerate scoring in death overs and short match situations.
 
 
-##2.Using deviation and absolute deviation:
+## 2.Using deviation and absolute deviation:
 
 	Players with lower absolute deviation showed stable performance across matches, while some high run-scorers were highly inconsistent.
 
 	Meaning:
 		A player with fewer total runs might be more valuable than a player with higher runs.
 
-##3. Dashboard shows:
+## 3. Dashboard shows:
 
 	Certain players did not rank among top run-scorers but ranked highly when consistency and strike rate were combined, identifying undervalued players.
 
-#Conclusion:
+## Conclusion:
 	 The findings suggest that optimal team selection should consider a balance between consistency and scoring aggression. A well-structured team requires stable accumulators to sustain innings and aggressive finishers to accelerate scoring, rather than relying solely on players with the highest aggregate runs. The dashboard enables data-driven decision-making for player evaluation, role assignment, and strategic team composition.
