@@ -54,27 +54,27 @@ Additionally, match statistics such as average runs scored, wickets taken, and p
 
 ## 1. Strike Rate-Based Player Segmentation:
 
-	Players were segmented into performance categories using strike rate thresholds to understand batting intent and match impact:
+Players were segmented into performance categories using strike rate thresholds to understand batting intent and match impact:
 
-	Very Low (SR 1–50): Defensive players with slow scoring pace, typically contributing to innings stability but reducing run acceleration.
+Very Low (SR 1–50): Defensive players with slow scoring pace, typically contributing to innings stability but reducing run acceleration.
 
-	Normal (SR 50–100): Balanced batters maintaining steady scoring without high risk, suitable for middle-order consolidation.
+Normal (SR 50–100): Balanced batters maintaining steady scoring without high risk, suitable for middle-order consolidation.
 
-	Aggressive (SR 100–150): Attacking players capable of increasing run rate and building momentum during middle overs.
+Aggressive (SR 100–150): Attacking players capable of increasing run rate and building momentum during middle overs.
 
-	Explosive (SR 150+): High-impact finishers who significantly accelerate scoring in death overs and short match situations.
+Explosive (SR 150+): High-impact finishers who significantly accelerate scoring in death overs and short match situations.
 
 
 ## 2.Using deviation and absolute deviation:
 
-	Players with lower absolute deviation showed stable performance across matches, while some high run-scorers were highly inconsistent.
+Players with lower absolute deviation showed stable performance across matches, while some high run-scorers were highly inconsistent.
 
-	Meaning:
-		A player with fewer total runs might be more valuable than a player with higher runs.
+Meaning:
+	A player with fewer total runs might be more valuable than a player with higher runs.
 
 ## 3. Dashboard shows:
 
-	Certain players did not rank among top run-scorers but ranked highly when consistency and strike rate were combined, identifying undervalued players.
+Certain players did not rank among top run-scorers but ranked highly when consistency and strike rate were combined, identifying undervalued players.
 
 ## Conclusion:
-	 The findings suggest that optimal team selection should consider a balance between consistency and scoring aggression. A well-structured team requires stable accumulators to sustain innings and aggressive finishers to accelerate scoring, rather than relying solely on players with the highest aggregate runs. The dashboard enables data-driven decision-making for player evaluation, role assignment, and strategic team composition.
+The findings suggest that optimal team selection should consider a balance between consistency and scoring aggression. A well-structured team requires stable accumulators to sustain innings and aggressive finishers to accelerate scoring, rather than relying solely on players with the highest aggregate runs. The dashboard enables data-driven decision-making for player evaluation, role assignment, and strategic team composition.
