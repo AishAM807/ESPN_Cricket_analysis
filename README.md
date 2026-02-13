@@ -80,5 +80,5 @@ Meaning:
 
 Certain players did not rank among top run-scorers but ranked highly when consistency and strike rate were combined, identifying undervalued players.
 
-### Conclusion:
+## Conclusion:
 The findings suggest that optimal team selection should consider a balance between consistency and scoring aggression. A well-structured team requires stable accumulators to sustain innings and aggressive finishers to accelerate scoring, rather than relying solely on players with the highest aggregate runs. The dashboard enables data-driven decision-making for player evaluation, role assignment, and strategic team composition.
