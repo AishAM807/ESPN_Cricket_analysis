@@ -58,15 +58,15 @@ Additionally, match statistics such as average runs scored, wickets taken, and p
 
 ### 1. Strike Rate-Based Player Segmentation:
 
--Players were segmented into performance categories using strike rate thresholds to understand batting intent and match impact:
+- Players were segmented into performance categories using strike rate thresholds to understand batting intent and match impact:
 
--Very Low (SR 1–50): Defensive players with slow scoring pace, typically contributing to innings stability but reducing run acceleration.
+- Very Low (SR 1–50): Defensive players with slow scoring pace, typically contributing to innings stability but reducing run acceleration.
 
--Normal (SR 50–100): Balanced batters maintaining steady scoring without high risk, suitable for middle-order consolidation.
+- Normal (SR 50–100): Balanced batters maintaining steady scoring without high risk, suitable for middle-order consolidation.
 
--Aggressive (SR 100–150): Attacking players capable of increasing run rate and building momentum during middle overs.
+- Aggressive (SR 100–150): Attacking players capable of increasing run rate and building momentum during middle overs.
 
--Explosive (SR 150+): High-impact finishers who significantly accelerate scoring in death overs and short match situations.
+- Explosive (SR 150+): High-impact finishers who significantly accelerate scoring in death overs and short match situations.
 
 
 ### 2.Using deviation and absolute deviation:
