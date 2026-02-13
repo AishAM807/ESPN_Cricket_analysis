@@ -47,34 +47,38 @@ Additionally, match statistics such as average runs scored, wickets taken, and p
 		Absolute_deviation_runs = ABS(Batting_Data[Deviation_runs])
 - Step 18 : The report was then published to Power BI Service.
 
-# Report Snapshot (Power BI DESKTOP)
+## Report Snapshot (Power BI DESKTOP)
 <img width="885" height="497" alt="Image" src="https://github.com/user-attachments/assets/3a6a7334-d99e-4615-8eae-67d7b5bbe924" />
 
-# Insights:
+<img width="892" height="496" alt="Image" src="https://github.com/user-attachments/assets/2c8e618f-e964-4472-9b57-910d3de380a4" />
 
-## 1. Strike Rate-Based Player Segmentation:
+<img width="885" height="494" alt="Image" src="https://github.com/user-attachments/assets/b720e0b0-018a-4379-a73e-9b1fd26427e6" />
 
-Players were segmented into performance categories using strike rate thresholds to understand batting intent and match impact:
+## Insights:
 
-Very Low (SR 1–50): Defensive players with slow scoring pace, typically contributing to innings stability but reducing run acceleration.
+### 1. Strike Rate-Based Player Segmentation:
 
-Normal (SR 50–100): Balanced batters maintaining steady scoring without high risk, suitable for middle-order consolidation.
+-Players were segmented into performance categories using strike rate thresholds to understand batting intent and match impact:
 
-Aggressive (SR 100–150): Attacking players capable of increasing run rate and building momentum during middle overs.
+-Very Low (SR 1–50): Defensive players with slow scoring pace, typically contributing to innings stability but reducing run acceleration.
 
-Explosive (SR 150+): High-impact finishers who significantly accelerate scoring in death overs and short match situations.
+-Normal (SR 50–100): Balanced batters maintaining steady scoring without high risk, suitable for middle-order consolidation.
+
+-Aggressive (SR 100–150): Attacking players capable of increasing run rate and building momentum during middle overs.
+
+-Explosive (SR 150+): High-impact finishers who significantly accelerate scoring in death overs and short match situations.
 
 
-## 2.Using deviation and absolute deviation:
+### 2.Using deviation and absolute deviation:
 
 Players with lower absolute deviation showed stable performance across matches, while some high run-scorers were highly inconsistent.
 
 Meaning:
 	A player with fewer total runs might be more valuable than a player with higher runs.
 
-## 3. Dashboard shows:
+### 3. Dashboard shows:
 
 Certain players did not rank among top run-scorers but ranked highly when consistency and strike rate were combined, identifying undervalued players.
 
-## Conclusion:
+### Conclusion:
 The findings suggest that optimal team selection should consider a balance between consistency and scoring aggression. A well-structured team requires stable accumulators to sustain innings and aggressive finishers to accelerate scoring, rather than relying solely on players with the highest aggregate runs. The dashboard enables data-driven decision-making for player evaluation, role assignment, and strategic team composition.
